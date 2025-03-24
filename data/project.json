@@ -1,21 +1,113 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "devinhobbs",
+    "is_private": false,
+    "title": "Red - Louise B. Halfe, Sky Dancer",
+    "description": "This annotation project, completed for ENGL 483 at the University of Alberta, takes a close look at the poem \"Red\" by Louise B. Halfe. In this poem and recording, Halfe, whose Cree name is Sky Dancer, addresses Missing and Murdered Indigenous Women and Girls and discusses the poem after her performance. ",
+    "language": "en",
+    "slug": "red-halfe",
+    "creator": "devinhobbs",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Background",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Form",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Performance",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Extra-Poetic Sounds",
+          "color": "#88C9F2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Identification",
+          "category": "Background"
+        },
+        {
+          "tag": "Definition",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
+        },
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        },
+        {
+          "tag": "Duration",
+          "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Technical Sounds",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ]
+    },
+    "created_at": "2025-03-24T16:33:54.923Z",
+    "updated_at": "2025-03-24T16:33:54.923Z"
   }
 }
