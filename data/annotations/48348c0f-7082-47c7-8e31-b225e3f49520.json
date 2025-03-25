@@ -1,5 +1,1484 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Red"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "f048dffc-b288-4fd0-9e14-e234bb34abb3"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beside the gravel driveway"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "3c54f14a-6baf-4cbb-bf7d-7152c56d992d"
+    },
+    {
+      "start_time": 3,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "are a grove of trees."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "da56de32-780b-47dc-8840-1e0243c75690"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My husband has hung"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "9417598a-0f5d-4aa6-a367-130b245e65bf"
+    },
+    {
+      "start_time": 6,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "four red dresses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "4dfbe440-f3d7-4a1a-b958-e2eae190adaa"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I watch them sway and dance"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "8e4abcfb-1dd8-486c-b79e-37fec60cc4dd"
+    },
+    {
+      "start_time": 10,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sleeves uplifted in the branches."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "e82f586e-6d38-4cc3-a859-a64324e4a818"
+    },
+    {
+      "start_time": 13,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Red."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "da356430-ac81-4637-b316-99d31d5b4aa0"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Valentines, Anniversaries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "b7a68b0c-337d-4681-9587-485778462bcf"
+    },
+    {
+      "start_time": 17,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Birthdays, Christmas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "f2349af8-dd64-48c1-b287-855654be10cd"
+    },
+    {
+      "start_time": 19,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Red lipstick, nail polish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "6598a1c0-e7cc-440c-bb77-374dd4a1bbd2"
+    },
+    {
+      "start_time": 22,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shoes, dresses, purses"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "022b8e47-977c-458b-a3b2-f28f43ac0099"
+    },
+    {
+      "start_time": 24,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "accessories matched"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "b315acda-333b-4374-ab30-3865dbfb2fb4"
+    },
+    {
+      "start_time": 26,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "for love."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "1af57095-1af7-48a7-a7b1-3199cce2482b"
+    },
+    {
+      "start_time": 28,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My father butchering "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "c4fa292f-e5f6-43e2-b6f6-b1d88b7ae55a"
+    },
+    {
+      "start_time": 30,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "deer, rabbit, duck, beaver"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "5dd6629d-dadd-463d-bbc8-ddae6d19902c"
+    },
+    {
+      "start_time": 33,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "muskrat, moose, [or] elk"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Tempo",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "15f44169-e38e-4106-be2a-dfb9f523fc84"
+    },
+    {
+      "start_time": 36,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nohkom's headkerchief."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "02ab2eeb-e495-482e-a1f6-f532444c26ca"
+    },
+    {
+      "start_time": 38,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nimosoom's neck bandana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "eaed8ca9-2d9a-47e0-8c81-aa56e6bf3b4e"
+    },
+    {
+      "start_time": 41,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Smouldering hot embers"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "235f87d9-8893-40a6-896e-0b4527e469f5"
+    },
+    {
+      "start_time": 43,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "smoking dried meat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "31e82418-bef2-4507-bf41-7bed3e9cc6cf"
+    },
+    {
+      "start_time": 45,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An infant's birth blood gushing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "0c5b1f3f-8c26-496b-ae2c-1ad31bab70e3"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "from the tunnel of life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "4e1b5979-53d6-42ad-b3db-5b8179d21e83"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Its placenta buried"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "afd97a99-8e0a-4db4-8673-e5cf6d484ed5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in the root of a tree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "2d60bf95-87cf-486d-850c-fbfdac3bf445"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The red hand paintings"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "78ddd797-8d96-43ab-9883-b3520ef0fdf5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "on a river's cliffs, caves"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "52f36b7a-5fd0-4212-9c56-0eb80f5a72a4"
+    },
+    {
+      "start_time": 1,
+      "end_time": 61,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "where people meditated"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "499adeb5-92f8-4669-ba13-b1e877f05bf4"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "their vision."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "5e3039b0-25e8-4401-9208-22daebbd7ad2"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four fires tended by the oskapewisuk"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "30a0bbd6-aba8-4510-a2b3-8c0635110350"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[for] four days mourning the truth"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "92fc2928-9bb1-4934-8cc8-eafa889a0416"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "at reconciliation gatherings."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "eb729e0d-c464-4f17-8099-11ca697b9ab9"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They return to the hearth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "cf729e03-31ca-49ba-895b-c15860eca72d"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prayer cloth offerings to the south"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "07838c09-d29a-4399-a867-4946d527e2aa"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "where thunder and lightning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "6996dfa4-c10b-4157-9f62-2f722fb4863a"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "rip the heavens."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "c5708b8b-5368-4b8d-9180-0c597b44c5c1"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fire bolts"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "326e09b2-142c-4d7f-afb4-06321ecdb01e"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "racing through the tree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "3f2ff8ab-afc5-456d-b57f-5964c9d7c463"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it's arms bursting with flames."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "682df1ec-e08d-45dd-9cfb-f97238fae56d"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Red dresses hanging"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "cefb684b-e377-47e6-8be0-7d9bccc54609"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in the Canadian Human Rights Museum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "df16b8f1-3f08-446c-87da-a222d4d2c758"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people's blood"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "814aaf12-db12-4689-8365-99859fab88dc"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "coursing through our veins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Timbre",
+          "category": "Performance"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        },
+        {
+          "tag": "Pitch",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "238ad013-d388-4464-b40f-29d43c2d037e"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think what's really important in this particular poem is that"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "d27c5b33-933d-4ea1-90f3-3e0424d0e46e"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it does address the Missing and Murdered aboriginal woman, right"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "4d671335-76ba-4d8c-80c7-08e1dcaadbf7"
+    },
+    {
+      "start_time": 1,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and, uh, red has become associated with, uh, that, that terrible, those terrible things that have happened to our woman"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "f815997f-b257-4e0e-98f2-e1603c1a68bc"
+    },
+    {
+      "start_time": 1,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and I'm terribly, I feel terrible, terrible about that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "64d78b34-1db6-46ed-a972-4de579164866"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But, um, we come from blood, right? And we return, we, uh, our, our, our birth canal when a child is born is filled with, uh, blood"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "4c93c347-9aa7-4397-9d5e-3b8eca9eb771"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and, um, and, we also come from a very, very long history of cave paintings where our ancestors left their story. The pictographs, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "69967b38-6065-4e97-bed5-96abe5ef3e0c"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, yeah. And we also, um, when we're talking about, uh, survival as aboriginal woman, we have, we face so much, and people don't recognize it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "d3558431-b118-4993-bab0-64f3b295ac18"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and incresingly, is I read about black woman stories and I see a lot of para-, parallels,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "31b16019-0fa9-4f26-a5cc-82f7c21e010a"
+    },
+    {
+      "start_time": 2,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it, it's really important to find this balance between what happened to our women and what, what happened, that, that, that, life-giving blood that is still coursing through our veins."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "9c01907c-2dab-4ed6-b513-1fabfedad3fc"
+    },
+    {
+      "start_time": 2,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We must understand, I think, that, um, all, all, everything and anything that has ever had a, um, breathing apparatus here on Earth"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "1cdfee35-da83-4e62-aa55-c82a6028c201"
+    },
+    {
+      "start_time": 3,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "to has left their breath in the wind, so they're never, ever far from us. They are in the wind, and that is one of the teachings of our Elders."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "221d79e3-f690-4ff9-8c1f-6f8db9b7aab4"
+    }
+  ],
   "set": "Default",
   "event_id": "608d8700-6141-42e6-963f-61f5c39ca8fa",
   "source_id": "c04b3992-9632-4ca8-bc28-7a4df166e9be"
