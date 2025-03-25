@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-25T17:46:05.395Z",
+  "created_by": "devinhobbs",
+  "title": "Red",
+  "slug": "red",
+  "updated_at": "2025-03-25T17:46:05.395Z",
+  "updated_by": "devinhobbs",
+  "parent": "1fc086fd-0969-4c0a-8fcc-74e3957cd1d4",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "608d8700-6141-42e6-963f-61f5c39ca8fa"
+  }
+}
