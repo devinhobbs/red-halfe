@@ -12,7 +12,72 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Louise Bernice Halfe / Sky Dancer’s “Red” explores the heart wrenching tragedies endured by missing and murdered Indigenous women and the colour now associated with these women and used for the advocacy of these girls: red. Halfe’s poem works to rework and decolonize the cultural understanding of the colour red and establish the roots of these missing and murdered women through their collective associations with the colour red."
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://sencanada.ca/media/367662/com_pho_louise-bernice-halfe-informal.jpg?&quality=90",
+              "caption": "Louise Bernice Halfe",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Louise Bernice Halfe / Sky Dancer's \"Red explores the heart wrenching tragedies endured by missing and murdered Indigenous women and the colour now associated with these women and used for the advocacy of these girls: red. Halfe's poem works to rework and decolonize the cultural understanding of the colour red and establish the roots of these missing and murdered women through their collective associations with the colour red."
+                }
+              ]
+            }
+          ],
+          "right": 0,
+          "left": 0,
+          "top": 0,
+          "bottom": 0
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -517,6 +582,6 @@
   "slug": "reading-red-decolonized-interpretations-and",
   "created_at": "2025-04-24T19:45:40.774Z",
   "created_by": "devinhobbs",
-  "updated_at": "2025-04-24T20:21:53.569Z",
+  "updated_at": "2025-04-24T20:27:28.163Z",
   "updated_by": "devinhobbs"
 }
