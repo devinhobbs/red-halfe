@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2025-03-25T21:18:23.738Z",
-  "created_by": "devinhobbs",
-  "title": "Red",
-  "slug": "red",
-  "updated_at": "2025-03-25T21:18:23.738Z",
-  "updated_by": "devinhobbs",
-  "parent": "1fc086fd-0969-4c0a-8fcc-74e3957cd1d4",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "59ae53e9-a2a5-44f0-8f2f-3a0c60f0d078"
-  }
-}
+{"content":[],"created_at":"2025-03-25T21:18:23.738Z","created_by":"devinhobbs","title":"Red","slug":"red","updated_at":"2025-03-25T21:18:23.738Z","updated_by":"devinhobbs","parent":"18290993-eb0b-4666-aa5f-633284e6e52b","autogenerate":{"enabled":true,"type":"event","type_id":"59ae53e9-a2a5-44f0-8f2f-3a0c60f0d078"}}
